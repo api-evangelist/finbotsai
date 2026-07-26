@@ -1,7 +1,27 @@
 aid: finbotsai
 name: Finbots.AI
-description: 'Finbots.AI is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Finbots.AI (finbots.ai) is a Singapore-headquartered fintech offering
+  CreditX, a no-code, AI-powered credit risk platform that lets banks and lenders build,
+  validate, and deploy application, behavioural, and collection scorecards in hours
+  instead of months. Its proprietary, explainable machine-learning models power real-time
+  lending decisions in under 0.03 seconds, and the platform adds a Decision Engine
+  (business rules), propensity modelling, and managed data services. Backed by Accel,
+  finbots.ai serves retail banking, SME lending, and credit-card clients across APAC
+  and MEA markets, and was among the first fintechs to complete Singapore''s AI Verify
+  AI-governance testing framework. No public self-service developer API is published;
+  API integration is enterprise and sales-gated.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.finbots.ai/wp-content/uploads/2025/01/WC-Copy-of-CreditX-Website-2025-4.png
 url: https://raw.githubusercontent.com/api-evangelist/finbotsai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,10 +31,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Ai
+- Credit Risk
+- Credit Scoring
+- Fintech
+- Lending
+- Banking
+- Machine Learning
+- Risk Management
+- Singapore
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +51,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://finbots.ai/
+  url: https://www.finbots.ai/
+- type: Support
+  url: https://www.finbots.ai/contact/
+- type: TermsOfService
+  url: https://www.finbots.ai/terms-of-use/
+- type: PrivacyPolicy
+  url: https://www.finbots.ai/privacy-policy/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/finbots-ai-pte-ltd/
+- type: Twitter
+  url: https://twitter.com/finbotsai
+- type: Facebook
+  url: https://www.facebook.com/FinbotsArtificialIntelligence/
+- type: DomainSecurity
+  url: security/finbotsai-domain-security.yml
+- type: LLMsTxt
+  url: llms/finbotsai-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

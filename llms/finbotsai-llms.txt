@@ -1,0 +1,20 @@
+# Finbots.AI
+
+> Finbots.AI (finbots.ai) is a Singapore-headquartered fintech offering CreditX, a no-code, AI-powered credit risk platform that lets banks and lenders build, validate, and deploy application, behavioural, and collection scorecards in hours instead of months. Backed by Accel. No public self-service developer API is published; API integration is enterprise/sales-gated.
+
+## Company
+- [Website](https://www.finbots.ai/): Trusted AI credit risk platform (CreditX, Decision Engine, propensity modelling, managed services).
+- [CreditX Products](https://www.finbots.ai/creditx/): Application, behavioural, and collection scorecards built with proprietary explainable AI.
+- [Decision Engine](https://www.finbots.ai/business-rules-engine/): Business rules engine for automated lending decisions.
+- [Case Studies](https://www.finbots.ai/case-studies/): Deployments across APAC and MEA banks and lenders.
+- [Press](https://www.finbots.ai/press/): Announcements and press releases.
+- [Our Team](https://www.finbots.ai/company/team/): Leadership and team.
+- [Contact](https://www.finbots.ai/contact/): Demo requests and support.
+
+## Legal
+- [Terms of Use](https://www.finbots.ai/terms-of-use/)
+- [Privacy Policy](https://www.finbots.ai/privacy-policy/)
+
+## API Evangelist artifacts
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/finbotsai/refs/heads/main/apis.yml): APIs.json index for this provider.
+- [Domain security probe](https://raw.githubusercontent.com/api-evangelist/finbotsai/refs/heads/main/security/finbotsai-domain-security.yml): Live TLS/HSTS/DNSSEC/CAA/SPF/DMARC posture.
