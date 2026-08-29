@@ -10,6 +10,17 @@ description: 'Finbots.AI (finbots.ai) is a Singapore-headquartered fintech offer
   and MEA markets, and was among the first fintechs to complete Singapore''s AI Verify
   AI-governance testing framework. No public self-service developer API is published;
   API integration is enterprise and sales-gated.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
