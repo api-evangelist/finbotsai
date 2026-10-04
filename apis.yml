@@ -51,7 +51,7 @@ tags:
 - Fintech
 - Lending
 - Banking
-- Machine-Learning
+- Machine Learning
 - Risk Management
 - Singapore
 tags_raw:
@@ -65,6 +65,7 @@ tags_raw:
 - Machine Learning
 - Risk Management
 - Singapore
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
