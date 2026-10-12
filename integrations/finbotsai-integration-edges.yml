@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/finbotsai/integrations
+- https://zapier.com/apps/finbots-ai/integrations
+- https://n8n.io/integrations/finbotsai/
+- https://composio.dev/toolkits/finbotsai
+- https://monid.ai/tools/finbotsai
+checked:
+- https://composio.dev/toolkits/finbotsai
+- https://monid.ai/tools/finbotsai
+- https://n8n.io/integrations/finbotsai/
+- https://zapier.com/apps/finbots-ai/integrations
+- https://zapier.com/apps/finbotsai/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
